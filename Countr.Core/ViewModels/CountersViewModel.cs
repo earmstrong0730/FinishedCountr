@@ -5,6 +5,7 @@ using Countr.Core.Services;
 using MvvmCross.Core.Navigation;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Plugins.Messenger;
+using Microsoft.AppCenter.Analytics;
 
 namespace Countr.Core.ViewModels
 {
@@ -45,7 +46,10 @@ namespace Countr.Core.ViewModels
 
         async Task ShowAddNewCounter()
         {
+            Analytics.TrackEvent("Show add new counter");
             await navigationService.Navigate(typeof(CounterViewModel), new Counter());
         }
-    }
+}
+ 
+
 }

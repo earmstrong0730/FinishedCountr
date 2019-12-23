@@ -1,3 +1,9 @@
+Microsoft.AppCenter.Analytics.Android.Bindings
+Microsoft.AppCenter.Analytics
+Microsoft.AppCenter.Android.Bindings
+Microsoft.AppCenter.Crashes.Android.Bindings
+Microsoft.AppCenter.Crashes
+Microsoft.AppCenter
 MvvmCross.Binding.Droid
 MvvmCross.Droid
 MvvmCross.Droid.Support.Core.UI

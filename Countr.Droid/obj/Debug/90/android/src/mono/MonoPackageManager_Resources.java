@@ -4,6 +4,12 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Countr.Droid.dll" comes first in this list. */
 		"Countr.Droid.dll",
 		"Countr.Core.dll",
+		"Microsoft.AppCenter.Analytics.Android.Bindings.dll",
+		"Microsoft.AppCenter.Analytics.dll",
+		"Microsoft.AppCenter.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.dll",
+		"Microsoft.AppCenter.dll",
 		"MvvmCross.Binding.dll",
 		"MvvmCross.Binding.Droid.dll",
 		"MvvmCross.Core.dll",

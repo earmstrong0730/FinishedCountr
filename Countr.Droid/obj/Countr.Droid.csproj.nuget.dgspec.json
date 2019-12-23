@@ -43,6 +43,14 @@
       "frameworks": {
         "netstandard1.4": {
           "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "MvvmCross": {
               "target": "Package",
               "version": "[5.2.1, )"
