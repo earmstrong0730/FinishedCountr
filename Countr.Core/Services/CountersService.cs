@@ -44,6 +44,7 @@ namespace Countr.Core.Services
 
         public Task IncrementCounter(Counter counter)
         {
+            throw new System.Exception("Crash");//comment this out if you do not want incrment counter to crash
             counter.Count += 1;
             return repository.Save(counter);
         }

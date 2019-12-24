@@ -25,10 +25,8 @@ namespace Countr.Droid
         protected override void OnCreate(Android.OS.Bundle bundle) //adds an override for the Oncreate method
         {
             base.OnCreate(bundle);
-
-            AppCenter.Start("<4776ae4f-07b4-43d4-8f89-63939309c3da>",
-                           typeof(Analytics),
-                           typeof(Crashes));
+            AppCenter.Start("4776ae4f-07b4-43d4-8f89-63939309c3da",
+                               typeof(Analytics), typeof(Crashes));
         }
     }
 }
