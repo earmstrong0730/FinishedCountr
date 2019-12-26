@@ -2,7 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.companyname.Countr" android:versionCode="1" android:versionName="@string/VersionName" android:installLocation="auto">
   <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="28" />
   <uses-permission android:name="android.permission.INTERNET" />
-  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="@string/ApplicationName" android:icon="@mipmap/ic_launcher" android:theme="@style/MyTheme" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:icon="@mipmap/ic_launcher" android:label="Countr" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md55b45cef10ddfdfc0fe8bec16df5d1f36.SplashScreen">
       <intent-filter>
