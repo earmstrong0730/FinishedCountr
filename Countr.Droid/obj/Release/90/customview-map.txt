@@ -1,0 +1,59 @@
+android.support.design.widget.AppBarLayout;obj\Release\90\res\layout\counter_view.xml
+android.support.design.widget.AppBarLayout;obj\Release\90\res\layout\counters_view.xml
+android.support.design.widget.FloatingActionButton;obj\Release\90\res\layout\counters_view.xml
+android.support.v7.widget.Toolbar;obj\Release\90\res\layout\toolbar.xml
+attr;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\11\jl\res\values\mvxrecyclerviewbindingattributes.xml
+attr;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\6\jl\res\values\mvxbindingattributes.xml
+bitmap;obj\Release\90\res\drawable\splashscreen.xml
+color;obj\Release\90\res\values\colors.xml
+declare-styleable;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\11\jl\res\values\mvxrecyclerviewbindingattributes.xml
+declare-styleable;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\6\jl\res\values\mvxbindingattributes.xml
+dimen;obj\Release\90\res\values\dimens.xml
+EditText;obj\Release\90\res\layout\counter_view.xml
+FrameLayout;obj\Release\90\res\layout\counter_view.xml
+FrameLayout;obj\Release\90\res\layout\counters_view.xml
+ImageButton;obj\Release\90\res\layout\counter_recycler_view.xml
+include;obj\Release\90\res\layout\counter_view.xml
+include;obj\Release\90\res\layout\counters_view.xml
+integer;obj\Release\90\res\values\integers.xml
+item;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\6\jl\res\values\ids.xml
+item;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\6\jl\res\values\mvxbindingattributes.xml
+item;obj\Release\90\res\drawable\splashscreen.xml
+item;obj\Release\90\res\menu\new_counter_menu.xml
+item;obj\Release\90\res\values\arrays.xml
+item;obj\Release\90\res\values\splashstyle.xml
+item;obj\Release\90\res\values\styles.xml
+item;obj\Release\90\res\values-v21\styles.xml
+layer-list;obj\Release\90\res\drawable\splashscreen.xml
+LinearLayout;obj\Release\90\res\layout\splashscreen.xml
+menu;obj\Release\90\res\menu\new_counter_menu.xml
+mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView;obj\Release\90\res\layout\counters_view.xml
+RelativeLayout;obj\Release\90\res\layout\counter_recycler_view.xml
+RelativeLayout;obj\Release\90\res\layout\counter_view.xml
+RelativeLayout;obj\Release\90\res\layout\counters_view.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\1\jl\res\values\strings.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\10\jl\res\xml\empty.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\11\jl\res\values\mvxrecyclerviewbindingattributes.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\13\jl\res\values\strings.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\4\jl\res\values\strings.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\5\jl\res\values\strings.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\6\jl\res\values\ids.xml
+resources;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\6\jl\res\values\mvxbindingattributes.xml
+resources;obj\Release\90\res\values\arrays.xml
+resources;obj\Release\90\res\values\colors.xml
+resources;obj\Release\90\res\values\dimens.xml
+resources;obj\Release\90\res\values\integers.xml
+resources;obj\Release\90\res\values\splashstyle.xml
+resources;obj\Release\90\res\values\strings.xml
+resources;obj\Release\90\res\values\styles.xml
+resources;obj\Release\90\res\values-v21\styles.xml
+shape;obj\Release\90\res\drawable\splashscreen.xml
+solid;obj\Release\90\res\drawable\splashscreen.xml
+string;C:\Users\Elizabeth\Documents\Visual Studio 2019\Projects\Xamarin\FinishedCountr\Countr.Droid\obj\Release\90\lp\13\jl\res\values\strings.xml
+string;obj\Release\90\res\values\strings.xml
+string-array;obj\Release\90\res\values\arrays.xml
+style;obj\Release\90\res\values\splashstyle.xml
+style;obj\Release\90\res\values\styles.xml
+style;obj\Release\90\res\values-v21\styles.xml
+TextView;obj\Release\90\res\layout\counter_recycler_view.xml
+TextView;obj\Release\90\res\layout\splashscreen.xml
